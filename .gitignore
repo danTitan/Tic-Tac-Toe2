@@ -1,0 +1,26 @@
+# Project exclude paths
+/.gradle/
+/Problems/Alphabetical order/build/
+/Problems/Alphabetical order/out/
+/Problems/Alphabetical order/out/production/classes/
+/Problems/Boxes/out/
+/Problems/Boxes/out/production/classes/
+/Problems/Cyclically shifting elements/out/
+/Problems/Cyclically shifting elements/out/production/classes/
+/Problems/Fill the matrix by numbers/out/
+/Problems/Fill the matrix by numbers/out/production/classes/
+/Problems/Individual taxes/out/
+/Problems/Individual taxes/out/production/classes/
+/Problems/Rotate a rectange array/out/
+/Problems/Rotate a rectange array/out/production/classes/
+/Problems/Spiral/out/
+/Problems/Spiral/out/production/classes/
+/Problems/Sum of neighbors/out/
+/Problems/Sum of neighbors/out/production/classes/
+/Problems/Swap the columns/out/
+/Problems/Swap the columns/out/production/classes/
+/Problems/Triples/out/
+/Problems/Triples/out/production/classes/
+/Tic-Tac-Toe/task/build/
+/Tic-Tac-Toe/task/out/
+/Tic-Tac-Toe/task/out/production/classes/
